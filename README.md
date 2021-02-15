@@ -4,8 +4,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=wiwinmafiroh alt=wiwinmafiroh /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wiwinmafiroh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wiwinmafiroh&show_icons=true&include_all_commits=true&theme=buefy" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wiwinmafiroh&layout=compact&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wiwinmafiroh&layout=compact&theme=buefy"/>
 </a>
