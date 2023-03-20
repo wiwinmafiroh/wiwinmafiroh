@@ -1,6 +1,6 @@
 ### Hey Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-I'm Wiwin (she/her) —🌸 Few words about me, always interested in learning new technologies. Loves to solve programming/algorithmic problems and write useful code.
+I'm Wiwin (she/her) —🌸 A few words about me: I am always interested in learning new technologies. I love to solve programming/algorithmic problems and write useful code.
 
 [![Gmail Badge](https://img.shields.io/badge/-wiwinmafiroh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wiwinmafiroh@gmail.com)](mailto:wiwinmafiroh@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-wiwinmafiroh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/wiwinmafiroh/)](https://www.github.com/wiwinmafiroh/)
